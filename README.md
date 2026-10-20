@@ -2,6 +2,8 @@
 
 Repo for the Recipes task from The Odin Project
 
+[View this site on GitHub Pages](https://richard-013.github.io/Odin-Recipes/index.html)
+
 Skills:
 
 - HTML
